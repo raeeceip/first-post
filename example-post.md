@@ -8,3 +8,7 @@ domain: blog.chiso.tech
 ---
 
 # And so it begins.
+
+
+## Edit: Since November 20,2022: I have come a long way, here are some new things:
+- I have worked for and completed two internships, one here in Canada and another back home, I worked as a devops and developer experience interns for both respectively
